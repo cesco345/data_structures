@@ -15,7 +15,7 @@
 15     int a, b;
 16
 17     a = 10;
-18     b = 20;swap_function
+18     b = 20;
 19
 20     swap(&a, &b);
 21     printf("The new swapped numbers are:  %d %d \n", a, b);
