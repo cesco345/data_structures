@@ -14,7 +14,7 @@
 14 {
 15     int a, b;
 16
-17     a = 10;wap_function
+17     a = 10;
 18     b = 20;
 19
 20     swap(a, b);
